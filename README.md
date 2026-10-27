@@ -1,7 +1,7 @@
 # ECE 2112: Advanced Computer Programming and Algorithms
 ## Experiment 5: Introduction to MATLAB Programming
 
-### FLORENCE MIGUEL S. ARAGA | 2ECE-A
+### FLORENCE MIGUEL S. ARAGA | 2ECE-A 
 
 ---
 
