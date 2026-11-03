@@ -1,5 +1,5 @@
 %% PROBLEM A: TRANSPOSE OPERATIONS
-disp('=================== PROBLEM A: TRANSPOSE OPERATIONS ===================');
+disp('PROBLEM A: TRANSPOSE OPERATIONS ');
 
 % Define the matrices exactly as given
 R = [ 5 -2  0  7;
